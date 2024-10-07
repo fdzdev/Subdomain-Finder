@@ -1,3 +1,4 @@
 *.tesla.com
 *.gitlab.com
 *.uber.com
+*.meta.com
