@@ -29,6 +29,7 @@ def run_command(command):
         return []
 
 
+# Use both assetfinder + subfinder
 def enumerate_subdomains(root_domain):
     assetfinder_command = f"assetfinder {root_domain}"
     subfinder_command = f"subfinder -d {root_domain}"
