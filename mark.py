@@ -73,7 +73,7 @@ def main():
     # Remove duplicates and add 'http://' to each domain
     unique_domains = {f"http://{domain}" for domain in all_domains if domain}
 
-    # Filter out any domains that start with '*.'
+    # Filter out any domains that start with '*.' good to grab domains from chaos dicovery project
     unique_domains = {
         domain for domain in unique_domains if not domain.startswith("http://*")
     }
