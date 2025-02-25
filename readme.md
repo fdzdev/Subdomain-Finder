@@ -25,7 +25,7 @@ Before using this script, ensure you have the following installed:
 1. Clone this repository to your local machine:
    > git clone https://github.com/fdzdev/Subdomain-Finder.git
    >
-   > cd your-repo-name
+   > cd Subdomain-Finder
 2. Ensure the prerequisites (Python, `assetfinder`, and `subfinder`) are installed.
 
 ## Usage
