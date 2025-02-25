@@ -23,7 +23,7 @@ Before using this script, ensure you have the following installed:
 
 ## Installation
 1. Clone this repository to your local machine:
-   > git clone https://github.com/yourusername/your-repo-name.git
+   > git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/fdzdev/Subdomain-Finder.git)
    >
    > cd your-repo-name
 2. Ensure the prerequisites (Python, `assetfinder`, and `subfinder`) are installed.
