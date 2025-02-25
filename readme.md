@@ -33,16 +33,15 @@ Before using this script, ensure you have the following installed:
    - Create a file named `domains.txt` in the same directory as the script.
    - Add one domain per line. For example:
      > example.com
-     >
-     > *.example.org
+     > *.tesla.com
+     > *.nasa.gov
      >
      > test.com
    - Wildcard domains (e.g., `*.example.org`) will trigger subdomain enumeration.
 
 2. **Run the script**:
    - Open a terminal in the script’s directory and execute:
-     > python3 script.py
-   - Replace `script.py` with the actual name of your Python script file.
+     > python3 mark.py
 
 3. **Monitor the output**:
    - The script will:
