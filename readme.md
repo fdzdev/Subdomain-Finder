@@ -11,6 +11,7 @@ This Python script automates subdomain enumeration for a list of domains using `
 
 ## Prerequisites
 Before using this script, ensure you have the following installed:
+
 1. **Python 3.x** - The script is written in Python 3.
 2. **`assetfinder`** - A tool for finding subdomains. Install it via:
    > go install github.com/tomnomnom/assetfinder@latest
